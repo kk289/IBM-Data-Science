@@ -1,5 +1,9 @@
 # IBM-Data Science
 
+## Course Info:   
+![courseinfo](IBM_DataScience.png)
+
+
 ## Course 1: What is data science?   
 Taught by:    
 Alex Aklson, Ph.D., Data Scientist    
