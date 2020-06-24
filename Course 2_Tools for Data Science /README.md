@@ -66,23 +66,23 @@ Topics:
 Learned about an enterprise-ready data science platform by IBM, called Watson Studio. Learned about some of the features and capabilities of what data scientists use in the industry. Also learned about other IBM tools used to support data science projects, such as IBM Watson Knowledge Catalog, Data Refinery, and the SPSS Modeler.
 
 Topics:   
-What is IBM Watson Studio?
-Watson Studio Introduction
-Creating an Account on IBM Watson Studio
-Jupyter Notebook in Watson Studio - Part 1
-Jupyter Notebook in Watson Studio - Part 2
-Lab: Creating a Watson Studio Project with Jupyter Notebook
-Linking GitHub to Watson Studio
-Other IBM Tools for Data Science
-IBM Watson Knowledge Catalog
-Data Refinery
-SPSS Modeler Flows in Watson Studio
-Lab: Modeler Flows in Watson Studio
-IBM SPSS Modeler
-SPSS Statistics
-Model Deployment with Watson Machine Learning
-Auto AI in Watson Studio
-IBM Watson OpenScale    
+- What is IBM Watson Studio?
+- Watson Studio Introduction
+- Creating an Account on IBM Watson Studio
+- Jupyter Notebook in Watson Studio - Part 1
+- Jupyter Notebook in Watson Studio - Part 2
+- Lab: Creating a Watson Studio Project with Jupyter Notebook
+- Linking GitHub to Watson Studio
+- Other IBM Tools for Data Science
+- IBM Watson Knowledge Catalog
+- Data Refinery
+- SPSS Modeler Flows in Watson Studio
+- Lab: Modeler Flows in Watson Studio
+- IBM SPSS Modeler
+- SPSS Statistics
+- Model Deployment with Watson Machine Learning
+- Auto AI in Watson Studio
+- IBM Watson OpenScale    
 
 ### [Week 4]()
 #### Final Assignment: Create and Share Your Jupyter Notebook
