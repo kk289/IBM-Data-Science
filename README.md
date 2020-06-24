@@ -12,3 +12,7 @@ IBM Developer Skills Network
 Polong Lin, Data Scientist    
 IBM Developer Skills Network    
 
+## Course 2: [Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science/home/welcome)    
+Taught by:    
+Romeo Kienzler, Chief Data Scientist, Course Lead, IBM Watson   
+Svetlana Levitan, Senior Developer Advocate with IBM Center for Open Data and AI Technologies   
