@@ -4,7 +4,7 @@
 ![courseinfo](IBM_DataScience.png)
 
 
-## Course 1: ![What is data science?](https://www.coursera.org/learn/what-is-datascience/home/welcome)       
+## Course 1: [What is data science?](https://www.coursera.org/learn/what-is-datascience/home/welcome)       
 Taught by:    
 Alex Aklson, Ph.D., Data Scientist    
 IBM Developer Skills Network    
