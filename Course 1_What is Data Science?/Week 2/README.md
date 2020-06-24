@@ -5,7 +5,7 @@ IBM Watson Visual Recognition (VR) is a service that uses deep learning algorith
 
 Using IBM Watson Visual Recognition, it is a great tools to upload the images and seeing how IBM Watson identifies the various objects and faces (even gender and age) in our images.
 
-It starts with creating a new accout with IBM Cloud. 
+It starts with creating a new accout with [IBM Cloud](https://cloud.ibm.com/registration). 
 
 After creating an accout with IBM Cloud, we can able to:
 - Access IBM Cloud
@@ -14,7 +14,7 @@ After creating an accout with IBM Cloud, we can able to:
 - Create a project in Watson Studio
 - Analyze images using Watson VR
 
-Now, we are on Dashboard (IBM Platform), lets create a new resource and we will choose Lite pricing plan (free) and *Watson Studio* service for this project.
+Now, we are on [Dashboard](https://cloud.ibm.com/) (IBM Platform), lets create a new resource and we will choose Lite pricing plan (free) and *Watson Studio* service for this project.
 
 Once we get into Watson studio platform, lets create a project, an empty one. Give the name and description to the project. 
 
