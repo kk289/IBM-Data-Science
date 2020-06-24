@@ -7,7 +7,7 @@ Using IBM Watson Visual Recognition, it is a great tools to upload the images an
 
 It starts with creating a new accout with IBM Cloud. 
 
-After creating an accout with IBM Cloud, We would have able to:
+After creating an accout with IBM Cloud, we can able to:
 - Access IBM Cloud
 - Add resources to your IBM Cloud account
 - Add services to your IBM Cloud account
