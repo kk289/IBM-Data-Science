@@ -8,7 +8,7 @@ This course help to count towards learning in any of the following programs:
 - IBM Data Science Professional Certificate
 - IBM AI Foundations for Business Specialization
 
-### Week 1
+### [Week 1](https://github.com/kk289/IBM-Data-Science/tree/master/Course%201_What%20is%20Data%20Science%3F/Week%201)    
 #### Defining Data Science and What Data Scientists Do
 In this module, I heard from data science professionals to discover what data science is, what data scientists do, and what tools and algorithms data scientists use on a daily basis. Finally, I completed a reading assignment to find out why data science is considered the sexiest job in the 21st century.
 
@@ -26,7 +26,7 @@ Topics:
 - What is the cloud?
 - What Makes Someone a Data Scientist?    
 
-### Week 2
+### [Week 2](https://github.com/kk289/IBM-Data-Science/tree/master/Course%201_What%20is%20Data%20Science%3F/Week%202)
 #### Data Science Topics
 In this module, I heard from Norman White, the Faculty Director of the Stern Centre for Research Computing at New York University, as he talks about data science and the skills required for anyone interested in pursuing a career in this field. He also advises those looking to start a career in data science. Finally, I completed reading assignments to learn about the process of mining a given dataset and about regression analysis.
 
@@ -42,7 +42,7 @@ Topics:
 - Applications of Machine Learning
 - Regression    
 
-### Week 3
+### [Week 3](https://github.com/kk289/IBM-Data-Science/tree/master/Course%201_What%20is%20Data%20Science%3F/Week%203)
 #### Data Science in Business
 In this module, I learned about the approaches companies can take to start working with data science. Learned about some of the qualities that differentiate data scientists from other professionals. Learned about analytics, story-telling, and the pivotal role data scientists play in creating an effective final deliverable. Finally, applied what I learned about data science by answering open-ended questions.
 
