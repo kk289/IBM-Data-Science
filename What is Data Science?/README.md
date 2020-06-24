@@ -2,7 +2,7 @@
 
 ### What is Data Science? 
 
-This course will count towards learning in any of the following programs:
+This course help to count towards learning in any of the following programs:
 - Key Technologies for Business Specialization
 - Introduction to Data Science Specialization
 - IBM Data Science Professional Certificate
