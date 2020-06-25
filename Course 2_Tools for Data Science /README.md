@@ -7,7 +7,7 @@ In this course, I learned about Jupyter Notebooks, RStudio IDE, Apache Zeppelin 
 To end the course, I created a final project with a Jupyter Notebook on IBM Data Science Experience and demonstrate my proficiency preparing a notebook, writing Markdown, and sharing work with other peers.
 
 
-### [Week 1]()    
+### [Week 1](https://github.com/kk289/IBM-Data-Science/tree/master/Course%202_Tools%20for%20Data%20Science%20/Week%201)        
 #### Data Scientist's Toolkit
 An overview of the programming languages commonly used, including Python, R, Scala, and SQL. Introduced to the open source and commercial data science tools available. Learned about the packages, APIs, data sets and models frequently used by data scientists.
 
