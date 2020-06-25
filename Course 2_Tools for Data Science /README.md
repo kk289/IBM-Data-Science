@@ -35,7 +35,7 @@ Key Concepts:
 - Give examples of popular tools used by data scientists.
 - Discover IBM tools focused on data science.
 
-### [Week 2]()
+### [Week 2](https://github.com/kk289/IBM-Data-Science/tree/master/Course%202_Tools%20for%20Data%20Science%20/Week%202)    
 #### Open Source Tools
 Learned about three popular tools used in data science: GitHub, Jupyter Notebooks, and RStudio IDE. Became familiar with the features of each tool, and what makes these tools so popular among data scientists today.
 
