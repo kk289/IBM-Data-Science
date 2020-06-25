@@ -1,7 +1,7 @@
 # Open Source Tools for Data Science
 # Week 1
 
-### Language of Data Science
+## Language of Data Science
 
 Most popular programming langaugages:   
 - Python
@@ -114,3 +114,43 @@ What are the roles we can apply for people who are interested in getting involve
 - The Julia language is relatively new, having been written in 2012, but it has a lot of promise for future impact on the data science industry.
 - JuliaDB is a particularly useful application of Julia for data science.
 - It's a package for working with large persistent data sets.
+
+## Data Science Tools
+
+### Categories of Data Science Tools
+
+- Data Management is the process of persisting and retrieving data.
+- Data Integration and Transformation, often referred to as Extract, Transform, and Load, or “ETL,” is the process of retrieving data from remote data management systems. 
+- Transforming data and loading it into a local data management system is also part of Data Integration and Transformation.
+- Data Visualization is part of an initial data exploration process, as well as being part of a final deliverable.
+- Model Building is the process of creating a machine learning or deep learning model using an appropriate algorithm with a lot of data. 
+- Model deployment makes such a machine learning or deep learning model available to third-party applications. 
+- Model monitoring and assessment ensures continuous performance quality checks on the deployed models.
+- Data asset management brings the same versioning and collaborative components to data. Data asset management also supports replication, backup, and access right management.
+- Development environments, commonly known as Integrated Development Environments, or “IDEs”, are tools that help the data scientist to implement, execute, test, and deploy their work. 
+- Execution environments are tools where data preprocessing, model training, and deployment take place.
+
+### Open Source Tools for Data Science: Part 1
+
+- The most widely used open source data management tools are relational databases:
+    - MySQL and PostgreSQL; 
+    - NoSQL databases such as MongoDB Apache CouchDB, and Apache Cassandra;
+    - File-based tools such as the Hadoop File System or Cloud File systems like Ceph.
+- Elasticsearch is mainly used for storing text data and creating a search index for fast document retrieval.
+- The task of data integration and transformation in the classic data warehousing world is called ETL, which stands for “extract, transform, and load.
+- The most widely used open source data integration and transformation tools: 
+    - Apache AirFlow, originally created by AirBNB; 
+    - KubeFlow, which enables you to execute data science pipelines on top of Kubernetes; 
+    - Apache Kafka, which originated from LinkedIn; 
+    - Apache Nifi, which delivers a very nice visual editor; 
+    - Apache SparkSQL (which enables to use ANSI SQL and scales up to compute clusters of 1000s of nodes),
+    - NodeRED, which also provides a visual editor. NodeRED consumes so little in resources that it even runs on small devices like a Raspberry Pi
+-  The most widely used open source data visualization tools:
+    - Hue, which can create visualizations from SQL queries.
+    - Kibana, a data exploration and visualization web application, is limited to Elasticsearch.
+    - Finally, Apache Superset is a data exploration and visualization web application.
+- Model deployment is extremely important. Once we’ve created a machine learning model capable of predicting some key aspects of the future, we should make that model consumable by other developers and turn it into an API:
+    - Apache PredictionIO currently only supports Apache Spark ML models for deployment, but support for all sorts of other libraries is on the roadmap.
+    - Seldon is an interesting product since it supports nearly every framework, including TensorFlow, Apache SparkML, R, and scikit-learn.
+    -  Seldon can run on top of Kubernetes and Redhat OpenShift.
+  
