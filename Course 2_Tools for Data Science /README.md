@@ -84,7 +84,7 @@ Topics:
 - Auto AI in Watson Studio
 - IBM Watson OpenScale    
 
-### [Week 4]()
+### [Week 4](https://github.com/kk289/IBM-Data-Science/tree/master/Course%202_Tools%20for%20Data%20Science%20/Week%204)   
 #### Final Assignment: Create and Share Your Jupyter Notebook
 Demonstrated my skills by creating and configuring a Jupyter Notebook.    
   
