@@ -61,7 +61,7 @@ Topics:
 - Lab: RStudio – The Basics
 - Lab: Creating an Interactive Map in R
 
-### [Week 3](https://github.com/kk289/IBM-Data-Science/tree/master/Course%202_Tools%20for%20Data%20Science%20/Week%203) 
+### [Week 3](./Week%203)   
 #### IBM Tools for Data Sciences
 Learned about an enterprise-ready data science platform by IBM, called Watson Studio. Learned about some of the features and capabilities of what data scientists use in the industry. Also learned about other IBM tools used to support data science projects, such as IBM Watson Knowledge Catalog, Data Refinery, and the SPSS Modeler.
 
