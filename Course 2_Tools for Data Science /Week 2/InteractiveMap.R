@@ -22,33 +22,27 @@ ui <- fluidPage(
   textOutput("coordinates")
 )
 
-server <- function(input, output, session){
-  
+server <- function(input, output, session) {
   points <- eventReactive(input$recalc, {
-      points = cbind(rnorm(10) * 2 + 13, rnorm(10) + 48)
-      output$coordinates <- renderText ({
-      points })
+    points = cbind(rnorm(40) * 2 + 13, rnorm(40) + 48)
+    output$coordinates <- renderText({
+      points
+    })
     return(points)
-  }, 
-  ignoreNULL = FALSE)
-  observeEvent(input$Map_shape_click,{ # update the location selectInput on map clicks
-    soutput$coordinates <- renderText({
+    
+  }, ignoreNULL = FALSE)
+  observeEvent(input$Map_shape_click, { # update the location selectInput on map clicks
+    output$coordinates <- renderText({
       "You have selected this"
     })
   })
   output$mymap <- renderLeaflet({
-    leaflet()
-      addProviderTiles(
-        providers$Stamen.TonerLite,
-        options = providerTileOptions(noWrap = TRUE)
-      )
+    leaflet() %>%
+      addProviderTiles(providers$Stamen.TonerLite,
+                       options = providerTileOptions(noWrap = TRUE)
+      ) %>%
       addMarkers(data = points())
   })
-  }
-
+}
 
 shinyApp(ui, server)
-
-
-## Somehow I am getting error > Listening on http://127.0.0.1:5130
-#                             > Warning: Error in : $ operator is invalid for atomic vectors
