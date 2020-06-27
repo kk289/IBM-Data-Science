@@ -19,7 +19,7 @@ You will have to play the role of the client as well as the data scientist to co
 Analyzing Credit Cards Default
 
 ##### Which topic did you choose to apply the data science methodology to?   
-I chose Credit Cards to apply the data science methodology. Since I have already done similar kind of project during college, I think it would be better to do this again to understand more effectively. 
+My Answer: I chose Credit Cards to apply the data science methodology. Since I have already done similar kind of project during college, I think it would be better to do this again to understand more effectively. 
 
 ##### Using the topic that you selected, complete the Business Understanding stage by coming up with a problem that you would like to solve and phrasing it in the form of a question that you will use data to answer.
 
@@ -28,7 +28,7 @@ You are required to:
 - Describe the problem, related to the topic you selected.
 - Phrase the problem as a question to be answered using data.
 
-Many banks and credit card companies have a high risk in that their clients will default on their credit card payment or not. Especially, banks want to reduce this risk by building a model that utilizes features that they have in their database about each individual. 
+My Answer: Many banks and credit card companies have a high risk in that their clients will default on their credit card payment or not. Especially, banks want to reduce this risk by building a model that utilizes features that they have in their database about each individual. 
 
 So the question for this project would be, "Can we predict whether a customer or client will default on their payment based on given features?"
 
@@ -40,6 +40,7 @@ So the question for this project would be, "Can we predict whether a customer or
 - Data Understanding and Preparation
 - Modeling and Evaluation
 
+My Answer:    
 1. Analytic Approach: The problem requires a YES/NO answer so we will use a classification model.    
 
 2. Data Requirements: To create a classification model, we will need features regarding bank clients. The features include client amount of credit limit approved, client gender, education, marriage status, age, bill statements of within 5 months, payment transactions within 5 months.   
