@@ -25,7 +25,7 @@ In this module, I learned about why we are interested in data science, what a me
 
 ### [Week 2](./Week%202)    
 #### From Understanding to Preparation and From Modeling to Evaluation
-In this module, you will learn what it means to understand data, and prepare or clean data. You will also learn about the purpose of data modeling and some characteristics of the modeling process. Finally, through a lab session, you will learn how to complete the Data Understanding and the Data Preparation stages, as well as the Modeling and the Model Evaluation stages pertaining to any data science problem.   
+In this module, I learned what it means to understand data, and prepare or clean data. Learned about the purpose of data modeling and some characteristics of the modeling process. Finally, through a lab session, I understood how to complete the Data Understanding and the Data Preparation stages, as well as the Modeling and the Model Evaluation stages pertaining to any data science problem.   
 
 ##### Key Concepts
 - Learn what it means to understand data.
@@ -39,10 +39,10 @@ In this module, you will learn what it means to understand data, and prepare or 
 
 ### [Week 3](./Week%203)   
 #### From Deployment to Feedback
-In this module, you will learn about what happens when a model is deployed and why model feedback is important. Also, by completing a peer-reviewed assignment, you will demonstrate your understanding of the data science methodology by applying it to a problem that you define.
+In this module, I learned about what happens when a model is deployed and why model feedback is important. Also, by completing a peer-reviewed assignment, I demonstrated my understanding of the data science methodology by applying it to a problem that you define.
 
 ##### Key Concepts
 - Learn about what happens when a model is deployed.
 - Learn about why model feedback is important.
-- Demonstrate your understanding of the data science methodology by applying it to a problem that you define.
+- Demonstrate understanding of the data science methodology by applying it to a problem that I define.
 
