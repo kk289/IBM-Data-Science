@@ -18,3 +18,7 @@ Svetlana Levitan, Senior Developer Advocate with IBM Center for Open Data and AI
 Taught by:    
 Alex Aklson, Ph.D., Data Scientist, IBM Developer Skills Network    
 Polong Lin, Data Scientist, IBM Developer Skills Network 
+
+## Course 4: [Python for Data Science and AI]()    
+Taught by:    
+Joseph Santarcangelo, Ph.D., Data Scientist at IBM, IBM Developer Skills Network
