@@ -28,4 +28,4 @@ Some of the lab work in this session:
 Some of the lab work in this session:
 
 - *From-Modeling-to-Evaluation-py-v2.0_Assign.ipynb*
-- *From-Modeling-to-Evaluation-py-v2.0_Completed.ipynb*
+- *From-Modeling-to-Evaluation-v2.0_Completed.ipynb*
