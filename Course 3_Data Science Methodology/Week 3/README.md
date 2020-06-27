@@ -47,8 +47,6 @@ My Answer:
 
 3. Data Collection: We use descriptive statistics and data evaluation techniques to make sure that we have the correct information for our predictive model.   
 
-4. Data Understanding and Preparation: Here, we need to take care of our features/variables. Are there any correlations between any features. We calculate the mean/median, stand deviations, univariate statistics. Those steps need to carry out for data understanding. 
-
-Since data preparations took almost 90% time of the whole project, we look for missing data, visualize features, and transform data to better fit our model.   
+4. Data Understanding and Preparation: Here, we need to take care of our features/variables. Are there any correlations between any features. We calculate the mean/median, stand deviations, univariate statistics. Those steps need to carry out for data understanding. Since data preparations took almost 90% time of the whole project, we look for missing data, visualize features, and transform data to better fit our model.   
 
 5. Modeling and Evaluation: We would create a classification model and evaluate the outcome result. We may need to make some changes to get a suitable model that could help predict a credit default.    
