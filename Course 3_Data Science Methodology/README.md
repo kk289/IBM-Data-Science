@@ -37,10 +37,6 @@ In this module, you will learn what it means to understand data, and prepare or 
 - Learn how to complete the Data Understanding and the Data Preparation stages pertaining to any data science problem.
 - Learn how to complete the Modeling and the Model Evaluation stages pertaining to any data science problem.
 
-Topics:   
-
-
-
 ### [Week 3](./Week%203)   
 #### From Deployment to Feedback
 In this module, you will learn about what happens when a model is deployed and why model feedback is important. Also, by completing a peer-reviewed assignment, you will demonstrate your understanding of the data science methodology by applying it to a problem that you define.
@@ -50,5 +46,3 @@ In this module, you will learn about what happens when a model is deployed and w
 - Learn about why model feedback is important.
 - Demonstrate your understanding of the data science methodology by applying it to a problem that you define.
 
-Topics:   
- 
