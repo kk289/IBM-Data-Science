@@ -44,7 +44,7 @@ In this module, I learned about the fundamentals of Python programming.
 - Understand functions by building a function using inputs and outputs.
 - Explain objects and classes by identifying data types and creating a class.
 
-### [Week 4](./Week%204)   
+### [Week 4]()   
 #### Working with Data in Python
 
 - Reading files with open
@@ -59,7 +59,7 @@ In this module, I learned about the fundamentals of Python programming.
 - Demonstrate how to create a text file by using the open function.
 - Demonstrate how to use NumPy to create multi-dimensional arrays.    
 
-### [Week 5](./Week%205)   
+### [Week 5]()   
 #### Final Project
 
 ##### Key Concepts
