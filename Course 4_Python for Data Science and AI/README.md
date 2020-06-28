@@ -3,7 +3,7 @@
 ### [Python for Data Science and AI](https://www.coursera.org/learn/python-for-applied-data-science-ai/home/info)  
 Upon its completion, I'll be able to write Python scripts and perform basic hands-on data analysis using Jupyter-based lab environment. 
 
-### [Week 1](https://github.com/kk289/IBM-Data-Science/tree/master/Course%203_Data%20Science%20Methodology/Week%201)        
+### [Week 1]()        
 #### Python Basics
 In this module, I learned about Python Basics which are useful in data science field.   
 
@@ -16,7 +16,7 @@ In this module, I learned about Python Basics which are useful in data science f
 - Interpret variables and solve expressions by applying mathematical operations.
 - Describe how to manipulate strings by using a variety of methods and operations.
 
-### [Week 2](./Week%202)    
+### [Week 2]()    
 #### Python Data Structures   
 In this module, I learned about Python Data Structures. 
 
@@ -29,7 +29,7 @@ In this module, I learned about Python Data Structures.
 - Demonstrate understanding of dictionaries by writing structures with correct keys and values.
 - Understand the differences between sets, tuples, and lists by creating sets.
 
-### [Week 3](./Week%203)   
+### [Week 3]()   
 #### Python Programming Fundamentals
 In this module, I learned about the fundamentals of Python programming. 
 
