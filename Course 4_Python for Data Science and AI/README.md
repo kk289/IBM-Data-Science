@@ -76,5 +76,6 @@ def make_dashboard(x, gdp_change, unemployment, title, file_name):
 make_dashboard(x = x, gdp_change = gdp_change, unemployment = unemployment, title = title, file_name = file_name)
 ```
 
-![dashboard](Week 5/Graph.png)
+![dashboard](/Week\5/Graph.png)
+
 
