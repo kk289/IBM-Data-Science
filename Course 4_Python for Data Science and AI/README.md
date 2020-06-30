@@ -64,3 +64,17 @@ In this module, I learned about the fundamentals of Python programming.
 
 ##### Key Concepts
 - Create a dashboard that shows key economic indicators from a specific data set.
+
+```
+def make_dashboard(x, gdp_change, unemployment, title, file_name):
+    output_file(file_name)
+    p = figure(title=title, x_axis_label='year', y_axis_label='%')
+    p.line(x.squeeze(), gdp_change.squeeze(), color="firebrick", line_width=4, legend="% GDP change")
+    p.line(x.squeeze(), unemployment.squeeze(), line_width=4, legend="% unemployed")
+    show(p)
+    
+make_dashboard(x = x, gdp_change = gdp_change, unemployment = unemployment, title = title, file_name = file_name)
+```
+
+![dashboard](Week 5/Graph.png)
+
