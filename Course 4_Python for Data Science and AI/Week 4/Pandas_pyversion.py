@@ -395,6 +395,7 @@ q
 
 
 # Write your code below and press Shift+Enter to execute
+df.iloc[1,2]
 
 
 # Double-click __here__ for the solution.
