@@ -76,7 +76,7 @@ def make_dashboard(x, gdp_change, unemployment, title, file_name):
 make_dashboard(x = x, gdp_change = gdp_change, unemployment = unemployment, title = title, file_name = file_name)
 ```
 
-![dashboard](https://github.com/kk289/IBM-Data-Science/blob/master/Course%204_Python%20for%20Data%20Science%20and%20AI/Week%205/Dashboard.png)
+![dashboard](https://github.com/kk289/IBM-Data-Science/blob/master/Course%204_Python%20for%20Data%20Science%20and%20AI/Week%205/Graph.png)
 
 
 
