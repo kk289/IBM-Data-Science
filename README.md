@@ -22,9 +22,8 @@ Polong Lin, Data Scientist, IBM Developer Skills Network
 Taught by:    
 Joseph Santarcangelo, Ph.D., Data Scientist at IBM, IBM Developer Skills Network
 
-```
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="112dcf93-1ce6-49f9-af89-17c8e918adc8" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
-```
+![Badge](https://www.youracclaim.com/badges/112dcf93-1ce6-49f9-af89-17c8e918adc8/public_url)
+
 
 ## Course 5: [Databases and SQL for Data Science](https://github.com/kk289/IBM-Data-Science/tree/master/Course%205_Databases%20and%20SQL%20for%20Data%20Science)    
 Taught by:    
