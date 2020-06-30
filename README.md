@@ -21,3 +21,10 @@ Polong Lin, Data Scientist, IBM Developer Skills Network
 ## Course 4: [Python for Data Science and AI](https://github.com/kk289/IBM-Data-Science/tree/master/Course%204_Python%20for%20Data%20Science%20and%20AI)    
 Taught by:    
 Joseph Santarcangelo, Ph.D., Data Scientist at IBM, IBM Developer Skills Network
+
+## Course 5: [Databases and SQL for Data Science](https://github.com/kk289/IBM-Data-Science/tree/master/Course%204_Python%20for%20Data%20Science%20and%20AI)    
+Taught by:    
+Rav Ahuja, AI and Data Science Program Director, IBM
+
+
+
