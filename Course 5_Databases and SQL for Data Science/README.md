@@ -5,7 +5,7 @@ The purpose of this course is to introduce relational database concepts and help
 
 The emphasis in this course is on hands-on and practical learning . As such, I worked with real databases, real data science tools, and real-world datasets. I created a database instance in the cloud. Through a series of hands-on labs, I did practice building and running SQL queries. I understood how to access databases from Jupyter notebooks using SQL and Python.
 
-### [Week 1]()        
+### [Week 1](https://github.com/kk289/IBM-Data-Science/tree/master/Course%205_Databases%20and%20SQL%20for%20Data%20Science/Week%201)        
 #### Introduction to Databases and Basic SQL    
 Introduced to databases. Created a database instance on the cloud. Learned some of the basic SQL statements. Also wrote and understood basic SQL hands-on on a live database.
 
