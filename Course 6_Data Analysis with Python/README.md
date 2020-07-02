@@ -20,7 +20,7 @@ Goals:
 - Use of pandas to load, manipulate, analyze, and visualize cool datasets
 - open-source library, scikit-learn, and its use in machine learning algorithms to build smart models and make cool predictions.
 
-### [Week 1]()        
+### [Week 1](https://github.com/kk289/IBM-Data-Science/tree/master/Course%206_Data%20Analysis%20with%20Python/Week%201)        
 #### Importing Datasets     
 
 ##### Topic:    
