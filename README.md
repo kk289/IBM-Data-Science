@@ -30,6 +30,8 @@ Joseph Santarcangelo, Ph.D., Data Scientist at IBM, IBM Developer Skills Network
 ## Course 5: [Databases and SQL for Data Science](https://github.com/kk289/IBM-Data-Science/tree/master/Course%205_Databases%20and%20SQL%20for%20Data%20Science)    
 Taught by:    
 Rav Ahuja, AI and Data Science Program Director, IBM    
+[Certified Badge](https://www.youracclaim.com/badges/7434647c-1c02-4aa2-bd02-5c7dc053d1a5/public_url)
+
 
 ## Course 6: [Data Analysis with Python](https://github.com/kk289/IBM-Data-Science/tree/master/Course%206_Data%20Analysis%20with%20Python)   
 Taught by:    
