@@ -39,7 +39,6 @@ Joseph Santarcangelo, Ph.D., Data Scientist at IBM, IBM Developer Skills Network
 [Certified Badge](https://www.youracclaim.com/badges/85f1d8a8-2428-4cb9-a41c-03381d3444be/public_url)
 
 
-
 ## Course 7: [Data Visualization with Python](https://github.com/kk289/IBM-Data-Science/tree/master/Course%207_Data%20Visualization%20with%20Python)      
 Taught by:    
 Alex Aklson, Ph.D., Data Scientist, IBM Developer Skills Network    
