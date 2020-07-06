@@ -36,7 +36,7 @@ Rav Ahuja, AI and Data Science Program Director, IBM
 ## Course 6: [Data Analysis with Python](https://github.com/kk289/IBM-Data-Science/tree/master/Course%206_Data%20Analysis%20with%20Python)   
 Taught by:    
 Joseph Santarcangelo, Ph.D., Data Scientist at IBM, IBM Developer Skills Network
-[Certified Badge]()
+[Certified Badge](https://www.youracclaim.com/badges/85f1d8a8-2428-4cb9-a41c-03381d3444be/public_url)
 
 
 
