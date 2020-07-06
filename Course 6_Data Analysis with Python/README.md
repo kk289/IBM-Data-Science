@@ -128,5 +128,5 @@ Goals:
 ### [Week 7](./Week%207)   
 #### IBM Digital Badge
 
-![IBM Badge](/Week%207/badge.png)
+![IBM Badge](https://github.com/kk289/IBM-Data-Science/blob/master/Course%206_Data%20Analysis%20with%20Python/Week%207/badge.png)
 
