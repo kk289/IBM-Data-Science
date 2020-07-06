@@ -40,4 +40,8 @@ Joseph Santarcangelo, Ph.D., Data Scientist at IBM, IBM Developer Skills Network
 
 
 
-## Course 7: [Data Visualization with Python]()   
+## Course 7: [Data Visualization with Python](https://github.com/kk289/IBM-Data-Science/tree/master/Course%207_Data%20Visualization%20with%20Python)      
+Taught by:    
+Alex Aklson, Ph.D., Data Scientist, IBM Developer Skills Network    
+
+
