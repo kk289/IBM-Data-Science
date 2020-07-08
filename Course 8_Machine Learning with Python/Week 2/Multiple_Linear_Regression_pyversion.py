@@ -42,7 +42,7 @@ get_ipython().run_line_magic('matplotlib', 'inline')
 
 
 a = "https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/ML0101ENv3/labs/FuelConsumptionCo2.csv"
-df = pd.read_csv(a, header=None) 
+df = pd.read_csv(a, header = None) 
 
 
 # __Did you know?__ When it comes to Machine Learning, you will likely be working with large datasets. As a business, where can you host your data? IBM is offering a unique opportunity for businesses, with 10 Tb of IBM Cloud Object Storage: [Sign up now for free](http://cocl.us/ML0101EN-IBM-Offer-CC)
