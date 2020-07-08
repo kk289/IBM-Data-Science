@@ -47,6 +47,6 @@ Alex Aklson, Ph.D., Data Scientist, IBM Developer Skills Network
 
 ## Course 8: [Machine Learning with Python](https://github.com/kk289/IBM-Data-Science/tree/master/Course%207_Data%20Visualization%20with%20Python)      
 Taught by:    
-SAEED AGHABOZORGI, Ph.D., Sr. Data Scientist, IBM Developer Skills Network    
-Joseph Santarcangelo, Ph.D., Data Scientist at IBM, IBM Developer Skills Network    
+Saeed Aghabozorgi, Ph.D., Sr. Data Scientist, IBM Developer Skills Network    
+Joseph Santarcangelo, Ph.D., Data Scientist at IBM, IBM Developer Skills Network
 [Certified Badge]()
