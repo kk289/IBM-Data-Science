@@ -14,7 +14,7 @@ What I achieved:
 3. And a certificate in machine learning to prove my competency
  
 
-### [Week 1](https://github.com/kk289/IBM-Data-Science/tree/master/Course%208_Machine%20Learning%20with%20Python/Week%201)        
+### Week 1      
 #### Introduction to Machine Learning    
 In module, I learned about applications of Machine Learning in different fields such as health care, banking, telecommunication, and so on. Got a general overview of Machine Learning topics such as supervised vs unsupervised learning, and the usage of each algorithm. Also, understood the advantage of using Python libraries for implementing Machine Learning models.
  
@@ -27,7 +27,7 @@ In module, I learned about applications of Machine Learning in different fields 
 
 
 
-### [Week 2](./Week%202)    
+### [Week 2](https://github.com/kk289/IBM-Data-Science/tree/master/Course%208_Machine%20Learning%20with%20Python/Week%202)    
 #### Regression   
 In this module, I got a brief intro to regression. I learned about Linear, Non-linear, Simple and Multiple regression, and their applications. Applied all these methods on two different datasets, in the lab part. Also, learned how to evaluate your regression model, and calculate its accuracy.
 
