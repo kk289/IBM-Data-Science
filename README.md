@@ -49,4 +49,3 @@ Alex Aklson, Ph.D., Data Scientist, IBM Developer Skills Network
 Taught by:    
 Saeed Aghabozorgi, Ph.D., Sr. Data Scientist, IBM Developer Skills Network    
 Joseph Santarcangelo, Ph.D., Data Scientist at IBM, IBM Developer Skills Network
-[Certified Badge]()
