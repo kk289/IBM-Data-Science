@@ -9,7 +9,7 @@ What I Did Learn:
 - Learned how to be creative in situations where data are not readily available by scraping web data and parsing HTML code. 
 - Utilized Python and its pandas library to manipulate data, which will help refine my skills for exploring and analyzing data. 
 
-* Require to use the Folium library to great maps of geospatial data and to communicate our results and findings.
+** Require to use the Folium library to great maps of geospatial data and to communicate our results and findings.
 
 ### [Week 1](https://github.com/kk289/IBM-Data-Science/tree/master/Course%209_Applied%20Data%20Science%20Capstone/Week%201)      
 #### Introduction  
