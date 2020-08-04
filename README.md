@@ -41,11 +41,17 @@ Joseph Santarcangelo, Ph.D., Data Scientist at IBM, IBM Developer Skills Network
 
 ## Course 7: [Data Visualization with Python](https://github.com/kk289/IBM-Data-Science/tree/master/Course%207_Data%20Visualization%20with%20Python)      
 Taught by:    
-Alex Aklson, Ph.D., Data Scientist, IBM Developer Skills Network    
+Alex Aklson, Ph.D., Data Scientist, IBM Developer Skills Network        
 [Certified Badge](https://www.youracclaim.com/badges/0c6a289c-ab2d-4c9b-995e-caee01b69c8b/public_url)
 
 
 ## Course 8: [Machine Learning with Python](https://github.com/kk289/IBM-Data-Science/tree/master/Course%208_Machine%20Learning%20with%20Python)      
 Taught by:    
 Saeed Aghabozorgi, Ph.D., Sr. Data Scientist, IBM Developer Skills Network    
-Joseph Santarcangelo, Ph.D., Data Scientist at IBM, IBM Developer Skills Network
+Joseph Santarcangelo, Ph.D., Data Scientist at IBM, IBM Developer Skills Network    
+[Certified Badge](https://coursera.org/share/e7767d95f7f48e62742fd73cefdeb896)
+
+
+## Course 8: [Applied Data Science Capstone](https://github.com/kk289/IBM-Data-Science/tree/master/Course%209_Applied%20Data%20Science%20Capstone)      
+Taught by:    
+Alex Aklson, Ph.D., Data Scientist, IBM Developer Skills Network    
