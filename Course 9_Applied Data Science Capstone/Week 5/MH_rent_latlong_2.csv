@@ -1,0 +1,145 @@
+Address,Area,Price_per_ft2,Rooms,Area-ft2,Rent_Price,Lat,Long
+West 105th Street,Upper West Side,2.94,5.0,3400,10000,40.7997627,-73.9661927
+East 97th Street,Upper East Side,3.57,3.0,2100,7500,40.7885173,-73.9551184
+West 105th Street,Upper West Side,1.89,4.0,2800,5300,40.7997627,-73.9661927
+CARMINE ST.,West Village,3.03,2.0,1650,5000,40.7303374,-74.0024762
+171 W 23RD ST. ,Chelsea,3.45,2.0,1450,5000,40.7441181,-73.9952986
+76 CARMINE ST. ,West Village,3.56,2.0,1350,4800,40.72963089473684,-74.00443968421052
+E 91ST,Upper East Side,3.21,2.0,1450,4650,40.7833226,-73.9547679
+333 east 81st street ,Upper East Side,1.85,3.0,2430,4500,40.774324449999995,-73.9528355356558
+EAST 88TH STREET,Upper East Side,3.21,2.0,1400,4500,40.7792308,-73.9509243
+East 77th Street,Upper East Side,5.0,1.0,900,4500,40.7729692,-73.9582529
+W 23RD ST.,Chelsea,2.21,2.0,2040,4500,40.7457738,-73.9996226
+EAST 30TH STREET,Murray Hill,2.09,2.0,2150,4500,40.741274,-73.975343
+East 30th street,Murray Hill,1.96,3.0,2300,4500,40.741274,-73.975343
+EAST 89TH STREET,Upper East Side,2.07,3.0,2100,4350,40.7788519,-73.9480698
+east 30th street,Murray Hill,3.25,2.0,1340,4350,40.741274,-73.975343
+W 23RD ST.,Chelsea,3.04,2.0,1400,4250,40.7457738,-73.9996226
+171 W 23RD ST.,Rental in Lenox Hill,5.54,2.0,1579,8750,40.7441181,-73.9952986
+211 East 70th Street,Chelsea,4.57,1.0,930,4250,40.7682243,-73.9606386
+135 W 24TH ST. ,Chelsea,4.83,1.0,870,4200,40.744392000000005,-73.99372200085574
+East 77th Street,Upper East Side,4.44,1.0,900,4000,40.7729692,-73.9582529
+East 77th Street,Upper East Side,5.33,1.0,750,4000,40.7729692,-73.9582529
+East 77th Street,Upper East Side,5.0,1.0,800,4000,40.7729692,-73.9582529
+205 East 92nd Street,Rental in Yorkville,7.27,3.0,2200,15984,40.78274985,-73.95038377039515
+136 West Houston Street,Rental in Greenwich Village,7.6,3.0,2100,15950,40.728045550000004,-74.0014756325424
+110 Greenwich Street,Rental in Financial District,6.0,6.0,2000,12000,40.7086724,-74.0134276
+200 East 82nd Street,Rental in Yorkville,6.69,3.0,1647,11016,40.7759672,-73.9556097
+393 West End Avenue,Rental in Riverside Dr./West End Ave.,7.15,4.0,2230,15950,40.7842778,-73.9814338
+201 East 86th Street,Rental in Yorkville,5.87,4.0,2300,13511,40.778834,-73.953789
+476 West 142nd Street,Rental in Hamilton Heights,2.73,2.0,3200,8750,40.8230404,-73.94884121870199
+1214 Fifth Avenue,No fee rental in East Harlem,4.78,3.0,1450,6930,40.7911766,-73.9523161546756
+50 Murray Street,No fee rental in Tribeca,6.48,2.0,1038,6724,40.71405142857143,-74.00960814285715
+20 Warren Street,Rental in Tribeca,4.78,4.0,2500,11950,40.714302700000005,-74.00768024999999
+15 West 55th Street,Rental in Midtown West,5.0,3.0,1500,7500,40.762229649999995,-73.97568077926353
+537 West 27th Street,Rental in Chelsea,5.72,2.0,1267,7250,40.751151199999995,-74.00407044750922
+125 West 31st Street,Rental in Midtown West,5.61,2.0,1250,7011,40.74873275,-73.99011264029429
+210 East 68th Street,Rental in Lenox Hill,5.28,2.0,1308,6900,40.7669023,-73.9620628
+140 Riverside Boulevard,No fee rental in Riverside Dr./West End Ave.,5.46,2.0,1230,6710,40.776962350000005,-73.98855676536476
+315 Central Park West,Rental in Central Park West,5.56,3.0,1800,10000,40.7887447,-73.9670194
+305 East 63rd Street,Rental in Lenox Hill,6.47,3.0,1392,9000,40.7629089,-73.9617727
+303 East 83rd Street,No fee rental in Yorkville,6.79,4.0,1759,11950,40.7759413,-73.9527735
+1113 York Avenue,Rental in Lenox Hill,6.29,3.0,1750,11000,40.7597303,-73.95943184295356
+393 West End Avenue,Rental in Riverside Dr./West End Ave.,6.16,3.0,1622,9995,40.7842778,-73.9814338
+51 Murray Street,Rental in Tribeca,5.63,2.0,1600,9000,40.714298299999996,-74.0094222
+162 East 63rd Street,Rental in Lenox Hill,11.74,2.0,852,10000,40.76419855,-73.96558996550354
+105 West 29th Street,No fee rental in Chelsea,8.16,2.0,1113,9080,40.74683491836735,-73.99026140816326
+9 East 62nd Street,Rental in Park/Fifth Ave. to 79th St.,8.95,3.0,950,8500,40.76598295,-73.97068769077953
+221 East 60th Street,Rental in Lenox Hill,5.0,5.0,1600,8000,40.76190595,-73.9650255357212
+317-319 Greenwich Street,Rental in Tribeca,3.63,2.0,2000,7250,40.71710575,-74.01067649999999
+1 Morningside Drive,No fee rental in Morningside Heights,5.2,3.0,1347,7010,40.8022121,-73.9614233
+93 Grand Street,Rental in SoHo,3.45,1.0,2000,6900,40.721411,-74.0020622
+50 West 22nd Street,Rental in Chelsea,4.29,3.0,2000,8585,40.7417874,-73.9925761
+146 Beekman Street,Rental in Financial District,5.02,3.0,1600,8027,40.7070752,-74.0024625
+1214 Fifth Avenue,No fee rental in East Harlem,5.2,2.0,1500,7795,40.7911766,-73.9523161546756
+31 West 10th Street,Rental in Greenwich Village,6.75,2.0,2000,13500,40.73428155,-73.99694037706416
+50 Murray Street,No fee rental in Tribeca,4.65,3.0,1566,7286,40.71405142857143,-74.00960814285715
+201 East 86th Street,Rental in Yorkville,6.7,3.0,1050,7031,40.778834,-73.953789
+19 Dutch Street,Rental in Financial District,6.48,2.0,1070,6935,40.7098139,-74.0073768496979
+100 West 26th Street,No fee rental in Chelsea,5.55,2.0,1214,6733,40.7448402,-73.99193549358702
+201 East 86th Street,Rental in Yorkville,6.55,2.0,1005,6578,40.778834,-73.953789
+95 Wall Street,Rental in Financial District,4.88,2.0,1320,6435,40.7047056,-74.00756981131559
+160 West 16th Street,Rental in Chelsea,4.85,2.0,1300,6300,40.7396411,-73.9983824
+10 East 29th Street,Rental in Flatiron/Union Square,5.77,2.0,1350,7783,40.74476765,-73.98612351936127
+305 East 63rd Street,Rental in Lenox Hill,5.82,2.0,1289,7500,40.7629089,-73.9617727
+260 West 26th Street,Rental in Chelsea,5.41,2.0,1340,7250,40.74672417948718,-73.99618617948718
+125 West 31st Street,Rental in Midtown West,5.39,2.0,1300,7011,40.74873275,-73.99011264029429
+50 East 28th Street,No fee rental in Flatiron/Union Square,6.47,2.0,1067,6905,40.74367854054054,-73.98513764864865
+393 West End Avenue,Rental in Riverside Dr./West End Ave.,8.18,3.0,1622,13270,40.7842778,-73.9814338
+92 Bank Street,Rental in West Village,7.46,2.0,1340,10000,40.736355450000005,-74.00631818534276
+50 Murray Street,No fee rental in Tribeca,5.58,3.0,1665,9286,40.71405142857143,-74.00960814285715
+21 West Street,No fee rental in Financial District,3.74,3.0,2300,8595,40.70638365,-74.0155287764695
+605 West 42nd Street,Rental in Midtown West,4.46,2.0,1800,8030,40.76155005,-73.99863447079215
+"105 Duane Street, NA",No fee rental in Tribeca,0.35,3.0,22200,7795,40.71588715,-74.00587339928953
+305 East 86th Street,Rental in Yorkville,5.71,3.0,1322,7551,40.7781479,-73.9512383
+240 East 27th Street,No fee rental in Murray Hill,4.67,3.0,1439,6715,40.7404464,-73.9795127
+240 Central Park South,Rental in Midtown West,4.33,2.0,1500,6500,40.7676287,-73.9812527
+265 East 66th Street,Rental in Lenox Hill,5.35,1.0,1200,6425,40.765302,-73.961349
+175 West 60th Street,No fee rental in Lincoln Center,6.99,1.0,900,6295,40.7711352,-73.98668818963088
+60 Fulton Street,Rental in Financial District,3.09,2.0,2000,6185,40.7085153629914,-74.00504440296565
+1 Union Square South,No fee rental in Flatiron/Union Square,6.75,2.0,1400,9455,40.7359091,-73.9901626
+150 East 57th Street,Rental in Midtown East,4.58,2.0,1300,5950,40.7603587,-73.96858883789355
+180 West 20th Street,No fee rental in Chelsea,5.48,2.0,1200,6570,40.7419763,-73.9968226
+160 East 48th Street,Rental in Midtown East,2.57,3.0,2500,6431,40.75441415,-73.97210005500551
+237 East 34th Street,Rental in Murray Hill,4.66,2.0,1350,6295,40.74525955,-73.97630317830951
+501 East 74th Street,Rental in Lenox Hill,4.43,2.0,1400,6195,40.7681218,-73.9524144
+182 Bleecker Street,Rental in Greenwich Village,4.62,2.0,1300,6000,40.7289281,-74.00105321755122
+236 West 10th Street,Rental in West Village,2.66,3.0,2450,6525,40.7337857,-74.0054962
+401 East 34th Street,Rental in Murray Hill,4.76,2.0,1350,6425,40.7435459,-73.9725085
+242 West 53rd Street,Rental in Midtown West,4.5,2.0,1400,6295,40.76351445,-73.98390711845306
+70 Pine Street,No fee rental in Financial District,4.13,2.0,1500,6188,40.706454300000004,-74.00770966536663
+52 Spring Street,Rental in NoLiTa/Little Italy,3.75,2.0,1600,6000,40.7219788,-73.9965722
+210 West 70th Street,No fee rental in Lincoln Center,4.25,2.0,1400,5950,40.777453550000004,-73.98349305021762
+225 East 70th Street,Rental in Lenox Hill,5.0,3.0,1500,7500,40.7679183,-73.95975635458552
+1080 Amsterdam Avenue,No fee rental in Morningside Heights,4.33,2.0,1800,7792,40.8050897,-73.9625516
+405 Main Street,No fee rental in Roosevelt Island,2.69,3.0,2700,7275,40.7579732,-73.95433488328828
+13 East 9th Street,Rental in Greenwich Village,7.83,1.0,830,6500,40.73259635,-73.99491375674644
+210 West 70th Street,No fee rental in Lincoln Center,4.01,2.0,1600,6418,40.777453550000004,-73.98349305021762
+250 West 93rd Street,No fee rental in Riverside Dr./West End Ave.,3.49,2.0,1800,6275,40.7928222,-73.9736836
+401 East 34th Street,Rental in Midtown West,4.58,3.0,1350,6182,40.7435459,-73.9725085
+510 East 14th Street,Rental in East Village,6.79,2.0,1300,8825,40.7299723,-73.9797623
+105 West 29th Street,No fee rental in Chelsea,7.93,1.0,750,5945,40.74683491836735,-73.99026140816326
+200 East 82nd Street,Rental in Yorkville,5.93,2.0,1184,7022,40.7759672,-73.9556097
+730 Columbus Avenue,No fee rental in Broadway Corridor,4.93,3.0,1400,6905,40.7927862,-73.9678702
+508 LaGuardia Place,Rental in Greenwich Village,10.38,2.0,1300,13500,40.7277838,-73.99949610746754
+316 East 53rd Street,Rental in Midtown East,11.25,1.0,1200,13500,40.7562522,-73.96655038521402
+316 East 53rd Street,Rental in Midtown East,4.5,2.0,3000,13500,40.7562522,-73.96655038521402
+201 East 86th Street,Rental in Yorkville,3.65,4.0,3700,13511,40.778834,-73.953789
+175 Franklin Street,Rental in Park/Fifth Ave,8.24,2.0,1700,14000,40.71916105,-74.0093834
+7 West 21st Street,No fee rental in Flatiron/Union Square,5.83,2.0,1800,10500,40.7404696122449,-73.99078775510203
+436 West 20th Street,Rental in Chelsea,5.63,2.0,2000,11250,40.74517965,-74.00450689177526
+242 West 53rd Street,Rental in Midtown West,6.66,3.0,2400,15995,40.76351445,-73.98390711845306
+11 East 78th Street,Rental in Park/Fifth Ave. to 79th St.,5.09,3.0,2700,13750,40.776024500000005,-73.96307061297117
+136 West Houston Street,Rental in Greenwich Village,4.93,3.0,2900,14300,40.728045550000004,-74.0014756325424
+254 East 68th Street,Rental in Lenox Hill,7.08,3.0,1694,12000,40.766203,-73.9606652
+5 East 82nd Street,Rental in Carnegie Hill,6.11,1.0,1800,11000,40.778780499999996,-73.96141465989382
+305 Riverside Drive,Rental in Riverside Dr./West End Ave.,3.13,4.0,3200,10000,40.8000313,-73.97134321438517
+7 West 21st Street,No fee rental in Flatiron/Union Square,5.69,2.0,1600,9100,40.7404696122449,-73.99078775510203
+173 West Broadway,Rental in Tribeca,11.11,1.0,900,10000,40.71781733333333,-74.00728511111112
+21 West Street,No fee rental in Financial District,3.37,3.0,2700,9095,40.70638365,-74.0155287764695
+25 East 67th Street,Rental in Park/Fifth Ave. to 79th St.,8.8,1.0,970,8534,40.768751,-73.9678737
+92 Bank Street,Rental in West Village,5.13,2.0,1560,8000,40.736355450000005,-74.00631818534276
+9 East 78th Street,Rental in Park/Fifth Ave. to 79th St.,8.38,2.0,1670,14000,40.7761179,-73.96316517816736
+361 East 50th Street,Rental in Midtown East,3.07,6.0,4560,14000,40.7540638,-73.9663232
+121 East 69th Street,Rental in Park/Fifth Ave. to 79th St.,2.74,6.0,4560,12500,40.7688182,-73.9641536
+105 Mulberry Street,Rental in NoLiTa/Little Italy,3.57,4.0,3500,12500,40.7173465,-73.9985454
+254 East 68th Street,Rental in Lenox Hill,6.55,3.0,1717,11250,40.766203,-73.9606652
+915 West End Avenue,Rental in Riverside Dr./West End Ave.,3.56,4.0,3150,11200,40.8008452,-73.9693393
+550 West 54th Street,No fee rental in Midtown West,8.05,3.0,1300,10460,40.768066,-73.992445
+225 East 39th Street,No fee rental in Murray Hill,4.2,3.0,2450,10285,40.7487057,-73.97449911974189
+88 Leonard Street,No fee rental in Tribeca,4.19,3.0,2230,9350,40.7170711,-74.0046817
+915 West End Avenue,Rental in Riverside Dr./West End Ave.,5.26,3.0,2130,11200,40.8008452,-73.9693393
+1214 Fifth Avenue,No fee rental in East Harlem,4.57,3.0,2450,11190,40.7911766,-73.9523161546756
+200 East 82nd Street,Rental in Yorkville,6.87,3.0,1620,11126,40.7759672,-73.9556097
+162 East 81st Street,Rental in Carnegie Hill,1.0,2.0,10240,10250,40.77575915,-73.9571676
+420 East 54th Street,Rental in Beekman/Sutton Place,3.65,3.0,2560,9350,40.7558074,-73.9633352
+9 East 78th Street,Rental in Park/Fifth Ave. to 79th St.,10.22,2.0,1370,14000,40.7761179,-73.96316517816736
+510 East 14th Street,Rental in East Village,5.87,3.0,2130,12496,40.7299723,-73.9797623
+26 Washington Square North,Rental in Greenwich Village,5.73,3.0,2180,12500,40.7322657,-73.99818634907788
+360 West 34th Street,Rental in Midtown West,4.16,3.0,2240,9329,40.7530109,-73.9959335
+360 West 34th Street,No fee rental in Midtown West,7.77,3.0,1200,9329,40.7530109,-73.9959335
+200 East 72nd Street,Rental in Lenox Hill,5.15,3.0,1700,8750,40.7694647,-73.9603387
+50 Murray Street,No fee rental in Tribeca,7.11,2.0,1223,8700,40.71405142857143,-74.00960814285715
+300 East 56th Street,No fee rental in Midtown East,3.87,3.0,2100,8118,40.75791545,-73.96531899609002
+1930 Broadway,No fee rental in Central Park West,5.06,2.0,1600,8095,40.7724333,-73.98170456765405
+33 West 9th Street,Rental in Greenwich Village,6.67,2.0,1500,10000,40.733691199999996,-73.99732284481132
