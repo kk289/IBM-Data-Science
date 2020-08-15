@@ -55,4 +55,4 @@ Joseph Santarcangelo, Ph.D., Data Scientist at IBM, IBM Developer Skills Network
 ## Course 8: [Applied Data Science Capstone](https://github.com/kk289/IBM-Data-Science/tree/master/Course%209_Applied%20Data%20Science%20Capstone)      
 Taught by:    
 Alex Aklson, Ph.D., Data Scientist, IBM Developer Skills Network    
-[Certified Badge](https://www.youracclaim.com/badges/0a4d32de-f466-45f6-a965-21bbc9603b80/public_url)
+[Certified Badge](https://coursera.org/share/fe4a57779251e3ea49b66566cbed0889)
