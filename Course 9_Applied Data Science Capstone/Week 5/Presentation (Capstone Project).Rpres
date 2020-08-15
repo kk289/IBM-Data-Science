@@ -1,8 +1,8 @@
 Capstone Project- The Battle of Neighborhoods
 ========================================================
-author: Kevil Khadka
-date: Auguest 14, 2020
-autosize: true
+author: Kevil Khadka    
+date: Auguest 14, 2020    
+
 
 
 Introduction
