@@ -12,17 +12,6 @@ The major purpose of this project, is to suggest a better apartment, neighborhoo
 The key question is:    
 How can we find a convenient and enjoyable place similar to current you are living? Certainly, We can use available real estate apps and Google but the idea is to use and apply the learned tools during the course. In order to make a comparison and evaluation of the rental options in Manhattan NY, we must set some basis, therefore the apartment in Manhattan must meet the following demands:
 
-Introduction (cont..)
-========================================================
-The challenge is to find a suitable apartment for rent in Manhattan NY that complies with the demands on location, price and venues. 
-
-i.  2 or 3 bedrooms apartment    
-ii.  Desired location is near a metro station in the Manhattan area and within 1.0 mile (1.6 km) radius    
-iii.  Rent Price should not exceed 7,000 dollar per month    
-iv.  Top amenities in the selected neighborhood shall be similar to current residence   
-v.  Desirable to have venues such as coffee shops, restaurants Asian Thai, wine stores, gym and food shops    
-
-
 Data Description
 ========================================================
 The following data is required to answer the issues of the problem:
@@ -56,3 +45,66 @@ Venues near current Singapore residence place
 ![Singapore Map Residence Place](Images/SGVenuesMap.png)
 
 
+Data and Mapping
+========================================================
+![Manhattan neighborhood](Images/ManhattanNeighborhood.png)
+
+========================================================
+Manhattan Borough neighborhoods - Dataset with top 10 clustered venues
+
+![Manhattan Borough](Images/ManhattanBorough.png)
+
+Map of Manhattan Neighborhoods with Top 10 Clustered venues
+
+![Manhattan Borough Map](Images/ManhattanBoroughMap.png)
+
+========================================================
+
+Manhattan Apartment Rent Price Statistics
+
+![Manhattan Rent](Images/ManhattanPriceRent.png)    
+![Manhattan Rent](Images/ManhattanPriceRent_1.png)    
+![Manhattan Rent](Images/ManhattanPriceBoxplot.png)   
+
+
+========================================================
+Map of Manhattan Apartments for Rent
+
+The big bubble on map indicate the address and the monthly price for rent thus making it convenient to select the target apartment with the price condition stipulated (max US7000).    
+
+![Manhattan Rent](Images/ManhattanPriceRentMap.png)  
+
+========================================================
+Map of Manhattan: Places for Rent and the Cluster of Venues
+
+Now, one can point to a rental place for price and address location information while knowing the cluster venues around it. This is an insightful way to explore rental possibilities.
+
+![Manhattan Rent](Images/ManhattanPriceRentMapVenue.png)  
+
+========================================================
+Map of Manhattan: The Location of Subway Stations
+
+![Manhattan Subway](Images/ManhattanSubway.png)  
+
+========================================================
+Map of Manhattan: Places for Rent and the Subway Locations Nearby
+
+![Manhattan Subway Rent](Images/ManhattanSubwayRent.png) 
+
+
+Results
+========================================================
+
+Let's consolidate all the required information to make the apartment selection in one map.
+
+Map of Manhattan with Rental Places, Subway Locations and Cluster of Venues
+
+Red dots are Subway stations, Blue dots are apartments available for rent, Bubbles are the clusters of venues.   
+
+![tesult](Images/ManhattanAll.png) 
+
+Conclusion
+========================================================
+This project has shown me a practical application to resolve a real situation that has impacting personal and financial impact using Data Science tools.
+
+The mapping with Folium is a very powerful technique to consolidate information and make the analysis and decision thoroughly and with confidence.
