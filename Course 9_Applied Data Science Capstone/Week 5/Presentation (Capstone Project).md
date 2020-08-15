@@ -49,8 +49,9 @@ Data and Mapping
 ========================================================
 ![Manhattan neighborhood](Images/ManhattanNeighborhood.png)
 
-========================================================
+
 Manhattan Borough neighborhoods - Dataset with top 10 clustered venues
+========================================================
 
 ![Manhattan Borough](Images/ManhattanBorough.png)
 
@@ -58,36 +59,38 @@ Map of Manhattan Neighborhoods with Top 10 Clustered venues
 
 ![Manhattan Borough Map](Images/ManhattanBoroughMap.png)
 
-========================================================
-
 Manhattan Apartment Rent Price Statistics
+======================================================
+
 
 ![Manhattan Rent](Images/ManhattanPriceRent.png)    
 ![Manhattan Rent](Images/ManhattanPriceRent_1.png)    
 ![Manhattan Rent](Images/ManhattanPriceBoxplot.png)   
 
-
-========================================================
 Map of Manhattan Apartments for Rent
+========================================================
+
 
 The big bubble on map indicate the address and the monthly price for rent thus making it convenient to select the target apartment with the price condition stipulated (max US7000).    
 
 ![Manhattan Rent](Images/ManhattanPriceRentMap.png)  
 
-========================================================
 Map of Manhattan: Places for Rent and the Cluster of Venues
+========================================================
 
 Now, one can point to a rental place for price and address location information while knowing the cluster venues around it. This is an insightful way to explore rental possibilities.
 
 ![Manhattan Rent](Images/ManhattanPriceRentMapVenue.png)  
 
-========================================================
-Map of Manhattan: The Location of Subway Stations
 
+Map of Manhattan: The Location of Subway Stations
+========================================================
 ![Manhattan Subway](Images/ManhattanSubway.png)  
 
-========================================================
+
 Map of Manhattan: Places for Rent and the Subway Locations Nearby
+========================================================
+
 
 ![Manhattan Subway Rent](Images/ManhattanSubwayRent.png) 
 
